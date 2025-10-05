@@ -1,0 +1,5 @@
+Get user data...
+Lightweight Tagging
+Annotated Tagging
+Use Annotated tags for the users "git tag -a v1.0 -m "1st release"
+process the data
